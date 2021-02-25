@@ -1,0 +1,5 @@
+C:/Users/bandr/OneDrive/Desktop/CMake Proj/CMakeLib/_builds/CMakeFiles/libBin.dir
+C:/Users/bandr/OneDrive/Desktop/CMake Proj/CMakeLib/_builds/CMakeFiles/ALL_BUILD.dir
+C:/Users/bandr/OneDrive/Desktop/CMake Proj/CMakeLib/_builds/CMakeFiles/ZERO_CHECK.dir
+C:/Users/bandr/OneDrive/Desktop/CMake Proj/CMakeLib/_builds/static/CMakeFiles/static_lib.dir
+C:/Users/bandr/OneDrive/Desktop/CMake Proj/CMakeLib/_builds/static/CMakeFiles/ALL_BUILD.dir

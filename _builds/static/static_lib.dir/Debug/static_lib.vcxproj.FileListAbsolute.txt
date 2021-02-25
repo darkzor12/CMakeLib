@@ -1,0 +1,2 @@
+C:\Users\bandr\OneDrive\Desktop\CMake Proj\CMakeLib\_builds\static\Debug\static_lib.pdb
+C:\Users\bandr\OneDrive\Desktop\CMake Proj\CMakeLib\_builds\static\static_lib.dir\Debug\static_lib.pdb
